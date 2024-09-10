@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace AppFluxoDeCaixa.Migrations
 {
     /// <inheritdoc />
-    public partial class Inicial : Migration
+    public partial class BancoDeDados1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
